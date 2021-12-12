@@ -12,7 +12,7 @@ For that, first you'll have to set the directory where the file's in, into your 
 
 Then, start it on your terminal using: 
 
-> "_Back-end Shop Cart.rb_" 
+> ruby "_Back-end Shop Cart.rb_" 
 
 It works like this: 
 
