@@ -1,5 +1,9 @@
 # Back-end Shop Cart mini project
 
+## Project Showcase:
+
+![Animation](https://user-images.githubusercontent.com/93904438/172885065-9c2a0035-655a-4814-ae3f-09c0c99c0c04.gif)
+
 This is an little example of a market by console, it shows a list of products, lets you introduce it to a cart (as many as you want) and finally shows you the total price of all the articles you put inside your cart.
 
 If you want to test it by yourself, you can do it by downloading the "_Back-end Shop Cart.rb_" file from this repository and them execute it in your terminal.
